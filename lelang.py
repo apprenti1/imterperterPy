@@ -10,7 +10,7 @@ from genereTreeGraphviz2 import printTreeGraph
 reserved={
         'print':'PRINT'
  
-        }
+        }zzzzz
  
 tokens = [ 'NUMBER','MINUS', 'PLUS','TIMES','DIVIDE', 'LPAREN',
           'RPAREN', 'OR', 'AND', 'SEMI', 'EGAL', 'NAME', 'INF', 'SUP',
